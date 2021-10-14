@@ -1,4 +1,4 @@
-/* * Data converted from /home/ark/Default_test/blink/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/saheb/ESP32-Projects/001Intro/001_blink/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

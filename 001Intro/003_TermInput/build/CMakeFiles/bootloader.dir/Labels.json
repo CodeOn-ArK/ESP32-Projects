@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

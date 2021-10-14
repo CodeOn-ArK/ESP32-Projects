@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/saheb/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/saheb/ESP32-Projects/003_TermInput/build/bootloader",
+    "config_file":        "/home/saheb/ESP32-Projects/003_TermInput/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/saheb/esp/esp-idf/components/efuse/Kconfig;/home/saheb/esp/esp-idf/components/esp32/Kconfig;/home/saheb/esp/esp-idf/components/esp_common/Kconfig;/home/saheb/esp/esp-idf/components/esp_system/Kconfig;/home/saheb/esp/esp-idf/components/log/Kconfig;/home/saheb/esp/esp-idf/components/newlib/Kconfig;/home/saheb/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/saheb/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/saheb/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/saheb/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/saheb/esp/esp-idf/components/bootloader", "/home/saheb/esp/esp-idf/components/bootloader_support", "/home/saheb/esp/esp-idf/components/efuse", "/home/saheb/esp/esp-idf/components/esp32", "/home/saheb/esp/esp-idf/components/esp_common", "/home/saheb/esp/esp-idf/components/esp_hw_support", "/home/saheb/esp/esp-idf/components/esp_rom", "/home/saheb/esp/esp-idf/components/esp_system", "/home/saheb/esp/esp-idf/components/esptool_py", "/home/saheb/esp/esp-idf/components/hal", "/home/saheb/esp/esp-idf/components/log", "/home/saheb/esp/esp-idf/components/bootloader/subproject/main", "/home/saheb/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/saheb/esp/esp-idf/components/newlib", "/home/saheb/esp/esp-idf/components/partition_table", "/home/saheb/esp/esp-idf/components/soc", "/home/saheb/esp/esp-idf/components/spi_flash", "/home/saheb/esp/esp-idf/components/xtensa", "" ]
+}
